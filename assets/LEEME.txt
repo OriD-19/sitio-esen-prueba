@@ -1,0 +1,1 @@
+Colocá aquí la foto del hero con el nombre que indica hero.image en content.json (por defecto: hero-graduada.jpg).

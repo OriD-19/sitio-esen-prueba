@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "Programa de Asistencia Financiera — ESEN",
+    "description": "La ESEN cuenta con un programa de asistencia financiera para estudiantes admitidos y matriculados: becas, créditos educativos y planes de pago.",
+    "lang": "es"
+  },
+  "brand": {
+    "navy": "#16335A",
+    "navyDeep": "#0E2440",
+    "lightBlue": "#CBDFF0",
+    "paleBlue": "#EAF1F9",
+    "orange": "#E2871F",
+    "ink": "#16273D",
+    "cloud": "#F4F7FB"
+  },
+  "header": {
+    "wordmark": "ESEN",
+    "ctaLabel": "Contáctanos",
+    "ctaHref": "#contacto"
+  },
+  "hero": {
+    "eyebrow": "Escuela Superior de Economía y Negocios",
+    "titlePrefix": "Programa de",
+    "titleEmphasis": "asistencia financiera",
+    "intro": "Con el propósito de brindar oportunidad para todos, la ESEN cuenta con un programa de asistencia financiera para aquellos estudiantes que han aprobado el proceso de admisión y se han matriculado en los tiempos establecidos.",
+    "image": "assets/hero-graduada.jpg",
+    "imageAlt": "Estudiante graduada de la ESEN sosteniendo su diploma"
+  },
+  "pago": {
+    "heading": "¿Cómo puedo pagar mis estudios en la ESEN?",
+    "opciones": [
+      { "titulo": "Fondos propios", "detalle": "de cada familia." },
+      { "titulo": "Financiamiento parcial de los estudios", "detalle": "25 %, 50 % o 75 %, y el complemento lo cancela la familia." },
+      { "titulo": "Créditos educativos", "detalle": "Líneas de crédito con bancos aliados, detalladas abajo." }
+    ],
+    "bancosHeading": "Créditos educativos",
+    "bancos": [
+      {
+        "nombre": "Banco Agrícola",
+        "puntos": [
+          "Fondos propios del banco",
+          "100 % de cobertura de la inversión total (matrícula y colegiaturas)",
+          "12 años de plazo",
+          "Tasa de interés desde el 8.10 % anual de acuerdo con evaluación"
+        ]
+      },
+      {
+        "nombre": "Banco Davivienda",
+        "puntos": [
+          "Fondos Bandesal",
+          "100 % de cobertura de la inversión total (matrícula y colegiaturas)",
+          "15 años de plazo (6 años de gracia del pago de capital)",
+          "Tasa de interés entre el 8.5 % y 9.5 % anual",
+          "Se debe realizar el pago de garantía del Fondo Salvadoreño de Garantía (FSG)"
+        ]
+      }
+    ],
+    "notas": [
+      "Los alumnos mayores de 18 años pueden acceder a créditos educativos acompañados con un fiador solidario, cuyo requisito consiste en poseer buen récord crediticio en el sistema financiero.",
+      "Son líneas de crédito no rotativas. Se contrata un monto total y se desembolsa parcialmente de acuerdo con el avance en la carrera, previa firma de pagarés de parte del solicitante y del fiador."
+    ]
+  },
+  "becas": {
+    "heading": "Becas ESEN",
+    "items": [
+      {
+        "titulo": "17 becas que cubren el 100 % de las cuotas mensuales",
+        "detalle": "Otorgadas, durante su primer año de estudios, a 17 estudiantes admitidos y matriculados que hayan obtenido los mejores resultados en su proceso de admisión de ingreso regular."
+      },
+      {
+        "titulo": "3 becas que cubren el 100 % de las cuotas mensuales",
+        "detalle": "Otorgadas, durante su primer año de estudio, a 3 estudiantes admitidos y matriculados que hayan obtenido los mejores resultados en su proceso de admisión de ingreso temprano."
+      },
+      {
+        "titulo": "13 becas del Rector a la excelencia académica",
+        "detalle": "Cubren el 100 % de la matrícula y cuotas por un año de estudios; se otorgan a aquellos estudiantes que, en el año inmediatamente anterior al de la beca, han obtenido el promedio más alto de notas en su carrera."
+      }
+    ]
+  },
+  "planes": {
+    "heading": "Planes y acuerdos de pago",
+    "texto": "Si el estudiante no logra obtener una beca o la familia no califica para un crédito educativo, se evaluará cada caso para autorizar planes de pago que, sin generar intereses u otros costos, permitan cubrir las cuotas de estudio. Por ejemplo, se puede acordar el pago en cuotas escalonadas o en plazos extendidos durante el año."
+  },
+  "costos": {
+    "heading": "¿Cuánto cuesta estudiar en la ESEN?",
+    "items": [
+      { "monto": "$ 225.00", "concepto": "Matrícula anual" },
+      { "monto": "$ 125.00", "concepto": "Costo mensual por materia inscrita" },
+      { "monto": "$ 625.00", "concepto": "Costo mensual por 5 materias inscritas" },
+      { "monto": "$ 1,875.00", "concepto": "Costo por ciclo académico (5 materias)" },
+      { "monto": "$ 5,850.00", "concepto": "Costo anual (15 materias inscritas)" },
+      { "monto": "$ 29,250.00", "concepto": "Costo total de la carrera" }
+    ],
+    "nota": "No incluye gastos y derechos de graduación."
+  },
+  "generalidades": {
+    "heading": "Generalidades",
+    "items": [
+      "Las cuatro carreras tienen una duración de 5 años.",
+      "En el año se cursan 3 ciclos de 3 meses cada uno.",
+      "La matrícula se paga solo una vez al año (enero).",
+      "Se pagan 9 cuotas mensuales al año.",
+      "Se cursan 15 materias al año (75 materias en la carrera). Si se exime el requisito de Inglés, el número de materias asciende a 72."
+    ]
+  },
+  "contacto": {
+    "heading": "Contactos",
+    "items": [
+      { "etiqueta": "Créditos educativos", "email": "creditoseducativos@esen.edu.sv" },
+      { "etiqueta": "Asistencia Financiera", "email": "afinanciera@esen.edu.sv" }
+    ],
+    "telefonos": ["(503) 2234-9250", "(503) 2234-9213"],
+    "sitio": "www.esen.edu.sv",
+    "sitioHref": "https://www.esen.edu.sv",
+    "direccion": "Km 12 1/2 carretera al Puerto de La Libertad, calle nueva a Comasagua, distrito de Santa Tecla, municipio de La Libertad Sur, departamento de La Libertad, República de El Salvador.",
+    "redes": [
+      { "red": "Instagram", "url": "https://instagram.com/esen.sv" },
+      { "red": "Facebook", "url": "https://facebook.com/ESEN.edu.sv" },
+      { "red": "LinkedIn", "url": "https://linkedin.com/school/esen" },
+      { "red": "TikTok", "url": "https://tiktok.com/@esen.edu.sv" },
+      { "red": "YouTube", "url": "https://youtube.com/@esen" },
+      { "red": "X", "url": "https://x.com/ESEN_edu_sv" }
+    ]
+  }
+}
